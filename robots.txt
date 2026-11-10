@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://framinghamhvacco.com/sitemap.xml
